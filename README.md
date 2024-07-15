@@ -10,9 +10,6 @@
  </div>
 <br>
 
-![Patricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=patyfreitasbr&show_icons=true&theme=tokyonight)
-
-
 <br>
 <div>
   <a href="www.linkedin.com/in/patyfreitasbr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
