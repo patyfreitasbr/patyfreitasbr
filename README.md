@@ -1,5 +1,5 @@
 ### 👋 Olá! Eu sou a Patrícia Freitas 
-
+Em fase de transição de carreira, estou desenvolvendo projetos que irei compartilhando também por aqui 
 
 <div style="display: inline_block">
   <p>Linguagens</p> 
