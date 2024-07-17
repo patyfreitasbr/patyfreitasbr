@@ -22,7 +22,8 @@ Fique à vontade para me seguir e se conectar comigo nas redes sociais:
 Busco oportunidades na área programação, para aplicar e desenvolver conhecimento
 <p>✉️brpatyfreitas@gmail.com</p>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e52e352e34bf3557fb68a885449a046ec86643bc2e5ad33f7aa3c2ad970ad8dc/68747470733a2f2f70616765766965772e76657263656c2e6170702f3f6769746875625f757365723d72616661656c6d646361726e6569726f"><img src="https://camo.githubusercontent.com/e52e352e34bf3557fb68a885449a046ec86643bc2e5ad33f7aa3c2ad970ad8dc/68747470733a2f2f70616765766965772e76657263656c2e6170702f3f6769746875625f757365723d72616661656c6d646361726e6569726f" alt="pv" data-canonical-src="https://pageview.vercel.app/?github_user=patyfreitasbr" style="max-width: 100%;"></a>
+
+
 
 
 
