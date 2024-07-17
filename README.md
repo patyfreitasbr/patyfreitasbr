@@ -20,9 +20,8 @@ Fique à vontade para me seguir e se conectar comigo nas redes sociais:
 </div>
    
 <br>
-   
-Contato:
-brpatyfreitas@gmail.com
+Busco oportunidades na área programação, para aplicar e desenvolver conhecimento
+<p>✉️brpatyfreitas@gmail.com</p>
 
 
 
