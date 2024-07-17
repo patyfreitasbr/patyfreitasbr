@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Patrícia Freitas 
 
-Dev apaixonada por tecnologia e inovação. Este espaço é onde compartilho meus projetos, ideias e avanços na minha jornada de aprendizado contínuo.
+<p>Dev apaixonada por tecnologia e inovação. </p>Este espaço é onde compartilho meus projetos, ideias e avanços na minha jornada de aprendizado contínuo.
 Tenho anos de experiência nas áreas de Design Gráfico e Motion Design, e atualmente estou em fase de transição de carreira, especializando-me na área de programação.
 <p>Acompanhe meu repositório para ver meus projetos mais recentes e quem sabe se inspirar!<p>
 <p>Estou aperfeiçoando meus conhecimentos nas linguagens:</p>
