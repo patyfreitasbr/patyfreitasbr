@@ -1,7 +1,8 @@
 # 👋 Olá! Eu sou a Patrícia Freitas 
 
- Dev, apaixonada por tecnologia e inovação. Este espaço é onde compartilho meus projetos, ideias e avanços na minha jornada de aprendizado contínuo.
-Atualmente, estou aperfeiçoando meus conhecimentos nas linguagens:
+Dev apaixonada por tecnologia e inovação. Este espaço é onde compartilho meus projetos, ideias e avanços na minha jornada de aprendizado contínuo.
+Tenho anos de experiência nas áreas de Design Gráfico e Motion Design, e atualmente estou em fase de transição de carreira, especializando-me na área de programação.
+Estou aperfeiçoando meus conhecimentos nas linguagens:
 <br>
 <p><img aligh="center" alt="paty_HTML" height="30" widht="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img aligh="center" alt="paty_CSS" height="30" widht="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
