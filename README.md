@@ -2,7 +2,7 @@
 
 <p>Dev apaixonada por tecnologia e inovação. </p>
 Tenho anos de experiência nas áreas de Design Gráfico e Motion Design, e atualmente estou em fase de transição de carreira, 
-<p>especializando-me na área de programação.</p>
+<p>especializando-me na área de programação para me tornar uma Desenvolvedora Full Stack.</p>
 <p>Acompanhe meu repositório para ver meus projetos mais recentes e quem sabe se inspirar!<p>
 <p>Estou aperfeiçoando meus conhecimentos nas linguagens:</p>
 
