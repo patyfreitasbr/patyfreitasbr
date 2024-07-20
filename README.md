@@ -2,7 +2,6 @@
 
 <p>Dev apaixonada por tecnologia e inovação. </p>
 Formada em Gestão de TI, atualmente estou me especializandoe na área de programação para me tornar uma Desenvolvedora Full Stack.</p>
-<p>Acompanhe meu repositório para ver meus projetos mais recentes e quem sabe se inspirar!<p>
 <p>Estou aperfeiçoando meus conhecimentos nas linguagens:</p>
 
 <p><img aligh="center" alt="paty_HTML" height="30" widht="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
