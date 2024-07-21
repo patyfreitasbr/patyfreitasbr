@@ -11,7 +11,7 @@ Formada em Gestão de TI, atualmente estou me especializandoe na área de progra
  </div>
 
  Busco oportunidades na área programação, para aplicar e desenvolver conhecimento
- <p>✉️brpatyfreitas@gmail.com</p>
+ <p>📬brpatyfreitas@gmail.com</p>
 
 <br>
 Também estou por aqui:
