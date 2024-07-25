@@ -1,4 +1,5 @@
-# 👋 Olá! Eu sou a Patrícia Freitas 
+## Hello World!🤭 
+# Sou a Patrícia Freitas 
 
 <p>Dev apaixonada por tecnologia e inovação. </p>
 Formada em Gestão de TI, atualmente estou me especializando na área de programação para me tornar uma Desenvolvedora Full Stack.</p>
