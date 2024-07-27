@@ -22,8 +22,6 @@ Também estou por aqui:
  <a href="https://www.youtube.com/@patyfreitasbr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></>
 </div> 
 
-</br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/patyfreitasbr/count.svg" /></p>
 
 
 
