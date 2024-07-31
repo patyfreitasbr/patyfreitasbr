@@ -11,7 +11,7 @@ Formada em Gestão de TI, atualmente estou me especializando na área de program
 <img aligh="center" alt="paty_python" height="30" widht="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></p>
  </div>
 
- Busco oportunidades na área programação, para aplicar e desenvolver conhecimento
+Contato:
  <p>📬brpatyfreitas@gmail.com</p>
 
 <br>
