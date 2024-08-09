@@ -3,8 +3,8 @@
 
 <p>Dev apaixonada por tecnologia e inovação. </p>
 Formada em Gestão de TI, atualmente estou me especializando na área de programação para me tornar uma Desenvolvedora Full Stack.</p>
-Por anos trabalhei nas áreas de Design Gráfico, Motion Design e Criação de Conteúdo. 
-Apaixonada por inovação busco unir design e desenvolvimento para criar soluções impactantes.</p>
+Por anos trabalhei nas áreas de design gráfico, motion design e criação de conteúdo. 
+<p>Apaixonada por inovação busco unir design e desenvolvimento para criar soluções impactantes.</p>
 <p>Atualmente aperfeiçoando meus conhecimentos nas linguagens:</p>
 
 <p><img aligh="center" alt="paty_HTML" height="30" widht="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
