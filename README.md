@@ -5,14 +5,36 @@
 Formada em Gestão de TI, atualmente estou me especializando na área de programação para me tornar uma Desenvolvedora Full Stack.</p>
 Por anos trabalhei nas áreas de design gráfico, motion design e criação de conteúdo. 
 <p>Apaixonada por inovação busco unir design e desenvolvimento para criar soluções impactantes.</p>
-<p>Atualmente aperfeiçoando meus conhecimentos nas linguagens:</p>
+<p>Atualmente aperfeiçoando meus conhecimentos nas...</p>
 
-<p><img aligh="center" alt="paty_HTML" height="30" widht="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img aligh="center" alt="paty_CSS" height="30" widht="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img aligh="center" alt="paty_JavaScript" height="30" widht="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img aligh="center" alt="paty_python" height="30" widht="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></p>
- </div>
+<p>Linguagens:</p>
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+   <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
+<p>Ferramentas:</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="7" /> 
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+<br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patyfreitasbr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br>
 Também estou por aqui:
 <div>
   <a href="https://www.linkedin.com/in/patyfreitasbr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
