@@ -22,6 +22,9 @@ Por anos trabalhei nas áreas de design gráfico, motion design e criação de c
 
 <p>Ferramentas:</p>
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="40" alt="google"/>
+
+   <img width="7" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
