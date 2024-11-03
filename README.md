@@ -1,5 +1,8 @@
 ## Hello World!🤭 
-# Sou a Patrícia Freitas 
+
+![banner patyfreitasbr](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggIVvv58N2vmYQlhFoi772SkBsPASCrEppOdqFphrX8Ti5LZSR139Ld97roWJHexTOR8BwT83gmI2lC5MYWE23M9GIobCs4I7yJ7BdsZDSLxx8gJwjhRFEwfH5U6uppKBx6mps0Y16WtX7286O4P7DeDyWgLVm9GGinicB4qlRCz3hqFszRgLCQyZbWgOb/s16000/patyfreitasbr.png)
+
+## Sou a Patrícia Freitas 
 
 <p>Dev apaixonada por tecnologia e inovação. </p>
 Formada em Gestão de TI, atualmente estou me especializando na área de programação para me tornar uma Desenvolvedora Full Stack.</p>
