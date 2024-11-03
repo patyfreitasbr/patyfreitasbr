@@ -5,7 +5,8 @@
 ## Sou a Patrícia Freitas 
 
 <p>Dev apaixonada por tecnologia e inovação. </p>
-Formada em Gestão de TI, atualmente estou me especializando na área de programação para me tornar uma Desenvolvedora Full Stack.</p>
+Formada em Gestão de TI, atualmente, estou me especializando na área de programação e Machine Learning, onde estou aprofundando meus conhecimentos em IAs Generativas, Python, HTML. CSS, JavaScript
+
 Por anos trabalhei nas áreas de design gráfico, motion design e criação de conteúdo. 
 <p>Apaixonada por inovação busco unir design e desenvolvimento para criar soluções impactantes.</p>
 <p>Atualmente aperfeiçoando meus conhecimentos nas...</p>
