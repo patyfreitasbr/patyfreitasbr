@@ -4,12 +4,9 @@
 
 ## Sou a Patrícia Freitas 
 
-<p>Dev apaixonada por tecnologia e inovação. </p>
-Formada em Gestão de TI, atualmente, estou me especializando na área de programação e Machine Learning, onde estou aprofundando meus conhecimentos em IAs Generativas, Python, HTML. CSS, JavaScript
+Formada em Tecnologia da Informação e com anos de experiência em Design Gráfico e Motion Design, estou em uma nova fase de carreira para mergulhar de vez na área de tecnologia. Atualmente, estou me especializando em modelos de linguagem, engenharia de prompts e desenvolvimento de aplicações com Python, além de consolidar conhecimentos em HTML, CSS e JavaScript.
 
-Por anos trabalhei nas áreas de design gráfico, motion design e criação de conteúdo. 
-<p>Apaixonada por inovação busco unir design e desenvolvimento para criar soluções impactantes.</p>
-<p>Atualmente aperfeiçoando meus conhecimentos nas...</p>
+Apaixonada por inovação, busco unir criatividade e tecnologia para criar soluções impactantes e visualmente atraentes. Estou em busca de oportunidades onde possa aplicar e expandir esses conhecimentos, contribuindo em projetos que realmente façam a diferença.
 
 <p>Linguagens:</p>
 <div align="left">
