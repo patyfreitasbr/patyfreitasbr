@@ -4,23 +4,26 @@
 
 ## Sou a Patrícia Freitas 
 
-Formada em Tecnologia da Informação e com anos de experiência em Design Gráfico e Motion Design, estou em uma nova fase de carreira para mergulhar de vez na área de tecnologia. Atualmente, estou me especializando em modelos de linguagem, engenharia de prompts e desenvolvimento de aplicações com Python, além de consolidar conhecimentos em HTML, CSS e JavaScript.
+Futura desenvolvedora Python focada em IA, automações e criação de agentes inteligentes com prompts.
+Em transição estratégica para a área de tecnologia, unindo visão estratégica e criatividade à bagagem técnica que venho desenvolvendo com Python.
+
+Com experiência como Estrategista Digital e Product Expert reconhecida pelo Google, já atuei na criação de infoprodutos, sistemas e conteúdos para presença digital autônoma.
 
 Apaixonada por inovação, busco unir criatividade e tecnologia para criar soluções impactantes e visualmente atraentes. 
 
-Estou em busca de oportunidades onde possa aplicar e expandir esses conhecimentos, contribuindo em projetos que realmente façam a diferença.
+Aberta a oportunidades e conexões na área tech, especialmente em projetos remotos, inovação e soluções escaláveis.
 
 <p>Linguagens:</p>
 <div align="left">
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+     <img width="7" />
    <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
    <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
 </div>
 
 <p>Ferramentas:</p>
