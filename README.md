@@ -5,8 +5,8 @@
 ## Sou a Patrícia Freitas 
 
 Futura desenvolvedora Python focada em IA, automações e criação de agentes inteligentes com prompts.
-Formada em TI, trablahei por anos como Designer gráfico, Motion designer e Estrategista Digital. 
-Em transição estratégica para a área de tecnologia, unindo visão estratégica e criatividade à bagagem técnica que venho desenvolvendo com Python.
+Formada em TI, por anos trabalhei como Designer gráfico, Motion designer e Estrategista Digital. 
+Em transição de carreira, unindo visão estratégica e criatividade à bagagem técnica que venho desenvolvendo.
 
 Apaixonada por inovação, busco unir criatividade e tecnologia para criar soluções impactantes e visualmente atraentes. 
 
