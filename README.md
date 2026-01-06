@@ -3,14 +3,13 @@
 ![banner patyfreitasbr](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggIVvv58N2vmYQlhFoi772SkBsPASCrEppOdqFphrX8Ti5LZSR139Ld97roWJHexTOR8BwT83gmI2lC5MYWE23M9GIobCs4I7yJ7BdsZDSLxx8gJwjhRFEwfH5U6uppKBx6mps0Y16WtX7286O4P7DeDyWgLVm9GGinicB4qlRCz3hqFszRgLCQyZbWgOb/s16000/patyfreitasbr.png)
 
 ## Sou a Patrícia Freitas 
+estrategista digital com formação em TI e atuação prática em presença digital, automações, organização de processos e uso estratégico de tecnologia para negócios digitais.
 
-Futura desenvolvedora Python focada em IA, automações e criação de agentes inteligentes com prompts.
-Formada em TI, por anos trabalhei como Designer gráfico, Motion designer e Estrategista Digital. 
-Em transição de carreira, unindo visão estratégica e criatividade à bagagem técnica que venho desenvolvendo.
+Atuo na interseção entre estratégia, conteúdo, plataformas digitais e tecnologia, aplicando soluções práticas com foco em clareza, estrutura e monetização sustentável. Tenho experiência em design, motion e estratégia digital, hoje integradas a projetos técnicos, documentação, automações e organização de sistemas.
 
-Apaixonada por inovação, busco unir criatividade e tecnologia para criar soluções impactantes e visualmente atraentes. 
+Este GitHub reúne projetos reais, inventários estratégicos, estudos aplicados e soluções em desenvolvimento contínuo, sempre com foco em impacto prático e escalabilidade.
 
-Aberta a oportunidades e conexões na área tech, especialmente em projetos remotos, inovação e soluções escaláveis.
+Aberta a conexões, colaborações e projetos remotos nas áreas de tecnologia aplicada, automação, produtos digitais e inovação orientada a negócio.
 
 <p>Linguagens:</p>
 <div align="left">
@@ -38,12 +37,10 @@ Aberta a oportunidades e conexões na área tech, especialmente em projetos remo
 </div>
 
 <br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patyfreitasbr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br>
 Também estou por aqui:
+<br>
+<p>Site: <a href="https://www.linkedin.com/in/patyfreitasbr">www.patyfreitas.com.br</a>
+
 <div>
   <a href="https://www.linkedin.com/in/patyfreitasbr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
   <a href="https://www.instagram.com/patyfreitasbr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></>
