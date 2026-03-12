@@ -38,10 +38,13 @@ Aberta a conexões, colaborações e projetos remotos nas áreas de tecnologia a
 <br> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="40" alt="google"/>
    <img width="7" />
-   <img src="https://private-user-images.githubusercontent.com/105465306/437826707-0324b2d2-c9f4-4c2e-ba62-703a7f346de6.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc2NjIzMzQsIm5iZiI6MTc2NzY2MjAzNCwicGF0aCI6Ii8xMDU0NjUzMDYvNDM3ODI2NzA3LTAzMjRiMmQyLWM5ZjQtNGMyZS1iYTYyLTcwM2E3ZjM0NmRlNi5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwNlQwMTEzNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYzM2MmViNTRlMjY3MzQxOWM0MTZmNTY4YjMyNzZlZGRiMTg2Mjg2NzMxZmFlOWIzYjEzM2ZiMWFjYWRhNWM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WtHuGXP72tDvs9LzENJoN64eipkQgFXZMCuY8lVYH0k" height="40" alt="gemini"/>
+
+   <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/ChatGPT.svg" height="40" alt="chatgpt"/>
    <img width="7" />
-   <img src="https://private-user-images.githubusercontent.com/105465306/389223235-03d84c1b-dba8-490d-b29f-085029eeb1df.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc2NjIzMzQsIm5iZiI6MTc2NzY2MjAzNCwicGF0aCI6Ii8xMDU0NjUzMDYvMzg5MjIzMjM1LTAzZDg0YzFiLWRiYTgtNDkwZC1iMjlmLTA4NTAyOWVlYjFkZi5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwNlQwMTEzNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTA4MTQ3NThkMGQ1ZmZhZTAwMzZmNTk4ZWRhMTk0MmRhZGRjNjAzNGZkNmM5N2M5Y2M2NGNiMTk2MzYwMDgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Macj_zMqH5Nk4B2gbXdljBx9C_U82J9m4quuuuzKHUo" height="40" alt="gpt"/>
+
+   <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Photoshop.svg" height="40" alt="photoshop"/>
    <img width="7" />
+
 </div>
 <br>
 Também estou por aqui:
